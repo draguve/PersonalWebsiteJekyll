@@ -6,19 +6,43 @@ layout: compress
 <head>
 
   {% include head.html %}
+  <style>
+    #page-container {
+      position: relative;
+      min-height: 100vh;
+    }
 
+    #content-wrap {
+      padding-bottom: 2.5rem;    /* Footer height */
+    }
+
+    #footer {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      //height: 2.5rem;            /* Footer height */
+    }
+  </style>
 </head>
 <body id="{% if page.title %}{{ page.title | slugify }}{% else %}home{% endif %}" class="{{ page.layout | downcase }}-layout">
-  
-  {% include header.html %}
 
-  <main class="💈">
+  <div id="page-container">
+    <div id="content-wrap">
 
-    {{ content }}
-    
-  </main>
+      {% include header.html %}
 
-  {% include footer.html %}
+      <main class="💈">
+
+        {{ content }}
+
+      </main>
+
+    </div>
+    {% include footer.html %}
+  </div>
+
+
+
 
 </body>
 </html>
