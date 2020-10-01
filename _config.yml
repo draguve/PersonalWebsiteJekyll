@@ -7,7 +7,7 @@ google_analytics: "UA-157628838-1"
 name: Ritwik Patil
 title: Draguve
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+  This is Draguve's blog, I may put stuff i like here. 
 url: https://www.draguve.wtf
 twitter_username: draguve
 default_img: /assets/images/seo.jpg
@@ -34,8 +34,8 @@ mailchimp_input: b_7675218e2837a5b4b20710052_19483e282c
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
+  - name: Ritwik Patil  
+    bio: Ritwik Patil was born and raised in India. He did his Bachelor of Technology in Electronics and Computer Engineering at Thapar University and now he's a Software Engineer at Samsung.
     url: https://www.draguve.wtf
 
 # Pagination settings
