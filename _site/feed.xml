@@ -4,10 +4,10 @@
     <title>Draguve</title>
     <description>This is Draguve's blog, I may put stuff i like here. 
 </description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Feb 2021 15:35:05 +0530</pubDate>
-    <lastBuildDate>Thu, 11 Feb 2021 15:35:05 +0530</lastBuildDate>
+    <link>https://www.draguve.wtf</link>
+    <atom:link href="https://www.draguve.wtf/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 11 Feb 2021 15:41:19 +0530</pubDate>
+    <lastBuildDate>Thu, 11 Feb 2021 15:41:19 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -16,8 +16,8 @@
 &lt;iframe src=&quot;https://open.spotify.com/embed/track/6NIBWoV4UHNBI86YEwMQg8&quot; width=&quot;300&quot; height=&quot;380&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Fri, 29 Jan 2021 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2021/01/29/shivers/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/01/29/shivers/</guid>
+        <link>https://www.draguve.wtf/2021/01/29/shivers/</link>
+        <guid isPermaLink="true">https://www.draguve.wtf/2021/01/29/shivers/</guid>
         
         <category>Music</category>
         
@@ -39,8 +39,8 @@
 &lt;iframe src=&quot;https://open.spotify.com/embed/playlist/7FiuGF7uQvr3ORzDKYIqVD&quot; width=&quot;300&quot; height=&quot;380&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Fri, 29 Jan 2021 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2021/01/29/playlist-images/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/01/29/playlist-images/</guid>
+        <link>https://www.draguve.wtf/2021/01/29/playlist-images/</link>
+        <guid isPermaLink="true">https://www.draguve.wtf/2021/01/29/playlist-images/</guid>
         
         <category>Music</category>
         
@@ -215,8 +215,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 25 Aug 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2020/08/25/nethunter/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/08/25/nethunter/</guid>
+        <link>https://www.draguve.wtf/2020/08/25/nethunter/</link>
+        <guid isPermaLink="true">https://www.draguve.wtf/2020/08/25/nethunter/</guid>
         
         <category>Android</category>
         
