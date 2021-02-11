@@ -7,6 +7,7 @@ author: Ritwik Patil
 tags: 
   - Music
   - Acrylic
+  - Pain
 ---
 
 

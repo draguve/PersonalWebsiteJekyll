@@ -5,6 +5,10 @@
 <lastmod>2020-08-25T00:00:00+05:30</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2021/01/29/playlist-images/</loc>
+<lastmod>2021-01-29T00:00:00+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/2021/01/29/shivers/</loc>
 <lastmod>2021-01-29T00:00:00+05:30</lastmod>
 </url>
@@ -31,6 +35,12 @@
 </url>
 <url>
 <loc>http://localhost:4000/tag/music/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/spotify/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/pain/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tag/acrylic/</loc>
