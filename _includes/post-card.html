@@ -6,7 +6,13 @@
       </figure>
     {% endif %}
     <div>
+    {% if post.description %}
       <h2 class="posts__text"><strong itemprop="name">{{ post.title }}</strong> — <span itemprop="description">{{ post.description }}</span></h2>
+    {% else %}
+      <h2 class="posts__text"><strong itemprop="name">{{ post.title }}</strong></h2>
+    {% endif %}
+  
+      
     </div>
   </a>
 </article>

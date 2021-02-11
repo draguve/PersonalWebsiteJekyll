@@ -6,9 +6,25 @@
 </description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Oct 2020 18:19:09 +0530</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2020 18:19:09 +0530</lastBuildDate>
+    <pubDate>Thu, 11 Feb 2021 15:07:09 +0530</pubDate>
+    <lastBuildDate>Thu, 11 Feb 2021 15:07:09 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Shivers</title>
+        <description>&lt;h3 id=&quot;music-pair&quot;&gt;Music Pair&lt;/h3&gt;
+&lt;iframe src=&quot;https://open.spotify.com/embed/track/6NIBWoV4UHNBI86YEwMQg8&quot; width=&quot;300&quot; height=&quot;380&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Fri, 29 Jan 2021 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2021/01/29/shivers/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/01/29/shivers/</guid>
+        
+        <category>Music</category>
+        
+        <category>Acrylic</category>
+        
+        
+      </item>
     
       <item>
         <title>HID attacks using an Android Phone</title>
