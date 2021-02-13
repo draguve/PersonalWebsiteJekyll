@@ -1,7 +1,7 @@
 ---
 layout: image-post
 title: "Shivers"
-date: 2021-1-29
+date: 2021-2-1
 image: /assets/images/Shivers/shivers.jpg
 author: Ritwik Patil
 tags: 

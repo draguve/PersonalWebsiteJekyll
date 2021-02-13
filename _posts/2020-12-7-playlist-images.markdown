@@ -1,7 +1,7 @@
 ---
 layout: image-post
 title: "On Spotify Playlist Images"
-date: 2021-1-29
+date: 2020-12-7
 image: /assets/images/Spotify/pain.png
 author: Ritwik Patil
 tags: 
